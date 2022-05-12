@@ -1,0 +1,16 @@
+C:\Users\maxus\source\repos\vbproject\vbproject\bin\Debug\net5.0\vbproject.exe
+C:\Users\maxus\source\repos\vbproject\vbproject\bin\Debug\net5.0\vbproject.deps.json
+C:\Users\maxus\source\repos\vbproject\vbproject\bin\Debug\net5.0\vbproject.runtimeconfig.json
+C:\Users\maxus\source\repos\vbproject\vbproject\bin\Debug\net5.0\vbproject.runtimeconfig.dev.json
+C:\Users\maxus\source\repos\vbproject\vbproject\bin\Debug\net5.0\vbproject.dll
+C:\Users\maxus\source\repos\vbproject\vbproject\bin\Debug\net5.0\ref\vbproject.dll
+C:\Users\maxus\source\repos\vbproject\vbproject\bin\Debug\net5.0\vbproject.pdb
+C:\Users\maxus\source\repos\vbproject\vbproject\obj\Debug\net5.0\vbproject.vbprojAssemblyReference.cache
+C:\Users\maxus\source\repos\vbproject\vbproject\obj\Debug\net5.0\vbproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxus\source\repos\vbproject\vbproject\obj\Debug\net5.0\vbproject.AssemblyInfoInputs.cache
+C:\Users\maxus\source\repos\vbproject\vbproject\obj\Debug\net5.0\vbproject.AssemblyInfo.vb
+C:\Users\maxus\source\repos\vbproject\vbproject\obj\Debug\net5.0\vbproject.vbproj.CoreCompileInputs.cache
+C:\Users\maxus\source\repos\vbproject\vbproject\obj\Debug\net5.0\vbproject.dll
+C:\Users\maxus\source\repos\vbproject\vbproject\obj\Debug\net5.0\ref\vbproject.dll
+C:\Users\maxus\source\repos\vbproject\vbproject\obj\Debug\net5.0\vbproject.pdb
+C:\Users\maxus\source\repos\vbproject\vbproject\obj\Debug\net5.0\vbproject.genruntimeconfig.cache

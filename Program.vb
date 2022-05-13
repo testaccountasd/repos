@@ -10,7 +10,7 @@ Module Program
     Public Class NegativeNumberException
         Inherits Exception
         Sub New()
-            MyBase.New("¬ качестве параметра передано отрицательное число")
+            MyBase.New("Ѕыло передано отрицательное число")
         End Sub
     End Class
     Public Function Factorial(x As Integer) As Integer
